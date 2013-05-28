@@ -1,0 +1,4 @@
+FF
+==
+
+Fluência Fadiga
