@@ -2,10 +2,12 @@ lib-cov
 *.seed
 *.log
 *.csv
-*.dat
-*.out
+*.data
+*.output
 *.pid
 *.gz
+*.zip
+*.tar
 .passwd
 
 pids
